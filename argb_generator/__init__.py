@@ -1,4 +1,3 @@
-from collections import namedtuple
 from itertools import permutations
 import os
 import pickle
